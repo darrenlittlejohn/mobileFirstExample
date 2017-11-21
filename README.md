@@ -5,6 +5,7 @@ Mobile First Responsive Design
 Using HTML5, CSS Grid
 
 Deployed at https://mobilefirstexample.herokuapp.com/index.html
-darrenlittlejohn.com
+
+http://darrenlittlejohn.com
 
 Tutorial by Traversy Media
