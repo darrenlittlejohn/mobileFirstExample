@@ -66,11 +66,23 @@ p {
 	padding-bottom: 0;
 }
 
+#showcase h2 {
+	padding-top: 10px;
+	padding-bottom: 10;
+}
 #showcase .content-wrap,
 #section-a .content-wrap {
 	padding: 0 1.5em;
 }
 
+#showcase p {
+	padding-bottom: 1px;
+	padding-top: 1px;''
+
+}
+#showcase a {
+	color: #fff;
+}
 /*Section A*/
 
 #section-a {
